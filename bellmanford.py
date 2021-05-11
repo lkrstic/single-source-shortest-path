@@ -1,5 +1,3 @@
-
-
 def bellmanford(graph, source):
     graph.nodes[source]['distance'] = 0
 
